@@ -7,11 +7,11 @@
 body{
     width: 100vw;
     height: 100vh;
-    background-image: url(background.png);
+    background-image: url(imagem1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-color: #0000007E;
+    background-color: #000000CE;
     background-blend-mode: darken;
     display: flex;
     justify-content: center;
@@ -39,6 +39,10 @@ h1{
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-style: italic;
+}
+
+hr{
+    width: 80%;
 }
 
 #informacoes{
